@@ -1,0 +1,14 @@
+.login-wrapper{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 0 auto;
+}
+.login-wrapper > input {
+    height: 2rem;
+    width: 12rem;
+    border-bottom-color: black;
+    border-radius: 10px;
+    padding: 0.5rem;
+}

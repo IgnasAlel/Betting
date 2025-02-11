@@ -1,0 +1,27 @@
+.register-wrapper{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 0 auto;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.form-group{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+.form-group > input {
+    height: 2rem;
+    width: 12rem;
+    border-bottom-color: black;
+    border-radius: 10px
+}
