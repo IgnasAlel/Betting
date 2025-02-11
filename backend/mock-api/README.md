@@ -15,13 +15,12 @@ This is a RESTful API developed with Express.js that simulates the management of
 
    ```bash
    git clone
-   cd mock-api
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd /path/mock-api
+   cd /path/backend/mock-api
    ```
 
 3. Install dependencies using npm:
@@ -119,6 +118,7 @@ http://localhost:3000/docs
 - Express.js
 - Faker.js
 - Swagger
+- Socket.io
 
 ## Notes
 
